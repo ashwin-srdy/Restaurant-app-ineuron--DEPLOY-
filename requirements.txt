@@ -3,3 +3,4 @@ gunicorn==20.0
 numpy
 pandas
 scikit-learn
+xgboost
